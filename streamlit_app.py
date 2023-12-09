@@ -1,2 +1,4 @@
 import streamlit
-streamlit.title('Hello')
+streamlit.title('Welcome')
+streamlit.header('Hello')
+streamlit.text('Hi')
